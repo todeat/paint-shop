@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "name": "Sobolanul Creepy",
+        "price": 200,
+        "imgUrl": "/imgs/soboCreep.png"
+    },
+
+    {
+        "id":2,
+        "name": "Grinch Creepy",
+        "price": 150,
+        "imgUrl": "/imgs/grinchCreep.png"
+    },
+
+    {
+        "id":3,
+        "name": "Spiritul Creepy",
+        "price": 200,
+        "imgUrl": "/imgs/fantomaCreep.png"
+    },
+
+    {
+        "id":4,
+        "name": "Alien Creepy",
+        "price": 160,
+        "imgUrl": "/imgs/alienCreep.png"
+    },
+
+    {
+        "id":5,
+        "name": "Omul Creepy si acadeaua",
+        "price": 180,
+        "imgUrl": "/imgs/acadeauaCreep.png"
+    }
+]
